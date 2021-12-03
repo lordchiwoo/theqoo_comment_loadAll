@@ -1,7 +1,7 @@
 # theqoo_comment_loadAll
 
 
-***v2.md 참조(크롬 확장프로그램)***
+***[v2 - 크롬 확장프로그램 활용](https://github.com/lordchiwoo/theqoo_comment_loadAll/blob/main/v2.md)***
 
 
 F12를 누르고 콘솔창에 아래 코드를 복붙한뒤 엔터.
